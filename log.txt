@@ -1,0 +1,1059 @@
+[W 09:57:08.007 NotebookApp] Unrecognized JSON config file version, assuming version 1
+[I 09:57:08.911 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 09:57:08.942 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 09:57:09.099 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 09:57:09.099 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 09:57:09.326 NotebookApp] [nb_anacondacloud] enabled
+[I 09:57:09.579 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 09:57:09.579 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 09:57:09.590 NotebookApp] [nb_conda] enabled
+[I 09:57:09.664 NotebookApp] Serving notebooks from local directory: /notebooks
+[I 09:57:09.664 NotebookApp] 0 active kernels 
+[I 09:57:09.664 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 09:57:09.664 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:57:17.323 NotebookApp] 302 GET / (192.168.36.74) 0.57ms
+[I 10:00:28.049 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 10:00:28.050 NotebookApp] Notebook batch_run.ipynb is not trusted
+[I 10:00:28.691 NotebookApp] Kernel started: 7ee2dba9-5dfa-4d74-87e9-3a48cf919ddb
+[W 10:00:28.699 NotebookApp] 404 GET /kernelspecs/Python%20[Root]/logo-64x64.png (192.168.36.74) 6.01ms referer=http://192.168.36.16:21643/notebooks/batch_run.ipynb
+[I 10:02:28.671 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:02:28.671 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:04:28.679 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:04:28.679 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:06:28.675 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:06:28.676 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:10:29.093 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:10:29.094 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[W 10:11:42.092 NotebookApp] Notebook opmap/batch/batch_run.ipynb is not trusted
+[I 10:11:42.626 NotebookApp] Kernel started: ff5043af-944e-4345-823b-d321262d5782
+[W 10:11:42.651 NotebookApp] 404 GET /kernelspecs/Python%20[Root]/logo-64x64.png (192.168.36.74) 1.97ms referer=http://192.168.36.16:21643/notebooks/opmap/batch/batch_run.ipynb
+[I 10:12:28.681 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:12:28.681 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:14:28.676 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:14:28.676 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:16:28.683 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:16:28.683 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:18:28.673 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:18:28.673 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:20:28.662 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:20:28.663 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:22:28.659 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:22:28.660 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:24:28.669 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:24:28.670 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:26:28.668 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:26:28.669 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:28:28.672 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:28:28.672 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:30:28.665 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:30:28.665 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:32:28.657 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:32:28.658 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:34:03.737 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:34:03.738 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:34:22.923 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:34:22.924 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:34:25.212 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:34:25.215 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:34:29.070 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:34:29.071 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:35:24.298 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:35:24.299 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:36:28.660 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:36:28.660 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:37:17.977 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:37:17.977 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:37:19.002 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:37:19.003 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:38:28.657 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:38:28.658 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:40:28.660 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:40:28.661 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:42:31.167 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:42:31.167 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:44:28.668 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:44:28.669 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:46:28.660 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:46:28.660 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:48:28.665 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:48:28.666 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:50:28.663 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:50:28.664 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:52:28.651 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:52:28.651 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 10:58:28.673 NotebookApp] Saving file at /batch_run.ipynb
+[W 10:58:28.673 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[W 11:13:13.568 NotebookApp] No such file or directory: batch
+[W 11:13:13.568 NotebookApp] 404 GET /api/contents/batch?type=directory&_=1563356108886 (192.168.36.66) 1.02ms referer=http://192.168.36.16:21643/tree/batch
+[W 11:19:51.512 NotebookApp] Notebook batch_run.ipynb is not trusted
+[W 11:19:52.213 NotebookApp] 404 GET /kernelspecs/Python%20[Root]/logo-64x64.png (192.168.36.66) 2.05ms referer=http://192.168.36.16:21643/notebooks/batch_run.ipynb
+[I 11:28:28.646 NotebookApp] Saving file at /batch_run.ipynb
+[W 11:28:28.647 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 11:32:28.634 NotebookApp] Saving file at /batch_run.ipynb
+[W 11:32:28.635 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[W 11:33:20.783 NotebookApp] Notebook batch_run.ipynb is not trusted
+[W 11:33:21.498 NotebookApp] 404 GET /kernelspecs/Python%20[Root]/logo-64x64.png (192.168.36.74) 2.60ms referer=http://192.168.36.16:21643/notebooks/batch_run.ipynb
+[I 12:21:21.487 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:21:21.488 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:22:24.814 NotebookApp] Saving file at /session_sw_all.csv
+[I 12:22:39.021 NotebookApp] Saving file at /session_sw_representative.csv
+[I 12:23:21.493 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:23:21.494 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:25:21.485 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:25:21.486 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:27:21.475 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:27:21.476 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:29:21.478 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:29:21.478 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:31:21.477 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:31:21.478 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:35:21.483 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:35:21.483 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:37:21.468 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:37:21.469 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:38:15.110 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:38:15.111 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:38:18.718 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:38:18.719 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:38:49.095 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:38:49.096 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:39:21.467 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:39:21.468 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:39:42.072 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:39:42.073 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:39:49.004 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:39:49.005 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:39:50.169 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:39:50.169 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:39:54.088 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:39:54.089 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:39:55.130 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:39:55.131 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:40:44.360 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:40:44.361 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:40:46.368 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:40:46.369 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:40:52.671 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:40:52.672 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:42:07.663 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:42:07.664 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:43:57.795 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:43:57.796 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:43:58.948 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:43:58.949 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:44:00.119 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:44:00.120 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:44:01.679 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:44:01.680 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:44:28.551 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:44:28.552 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:44:45.274 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:44:45.275 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:44:46.357 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:44:46.358 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:45:21.461 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:45:21.462 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:47:21.478 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:47:21.479 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:48:15.889 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:48:15.890 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:48:21.725 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:48:21.726 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:48:22.946 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:48:22.947 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:49:21.477 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:49:21.477 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:51:21.479 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:51:21.480 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:53:04.038 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:53:04.039 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:53:04.981 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:53:04.981 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:53:06.576 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:53:06.577 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:53:07.815 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:53:07.816 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:55:21.463 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:55:21.464 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:57:21.464 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:57:21.465 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 12:59:21.469 NotebookApp] Saving file at /batch_run.ipynb
+[W 12:59:21.470 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:01:21.473 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:01:21.474 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:03:21.462 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:03:21.462 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:05:21.467 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:05:21.467 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:07:21.459 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:07:21.460 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:08:46.405 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:08:46.406 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:11:06.353 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:11:06.354 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:11:07.469 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:11:07.470 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:13:21.461 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:13:21.461 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:15:22.029 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:15:22.029 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:17:21.484 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:17:21.485 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:19:21.464 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:19:21.465 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:19:22.970 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:19:22.971 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:21:21.461 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:21:21.462 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:21:31.764 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:21:31.765 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:23:21.462 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:23:21.463 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:25:21.466 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:25:21.467 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:27:21.462 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:27:21.463 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:29:21.445 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:29:21.445 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:29:44.103 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:29:44.103 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:29:45.571 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:29:45.571 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:29:46.956 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:29:46.957 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:33:15.917 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:33:15.919 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:33:16.911 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:33:16.911 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:34:30.017 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:34:30.018 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:34:35.512 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:34:35.513 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:34:49.378 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:34:49.378 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:34:59.960 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:34:59.962 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:35:01.805 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:35:01.807 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:35:02.886 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:35:02.887 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:35:03.802 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:35:03.803 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:37:21.451 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:37:21.452 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:39:21.460 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:39:21.461 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:40:29.233 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:40:29.234 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:40:30.491 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:40:30.491 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:41:21.441 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:41:21.443 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:43:21.446 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:43:21.447 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:45:21.445 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:45:21.446 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:46:07.555 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:46:07.556 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:46:19.114 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:46:19.115 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:46:20.472 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:46:20.473 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:46:23.692 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:46:23.693 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:46:24.643 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:46:24.644 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:47:21.442 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:47:21.443 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:03.135 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:03.135 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:04.662 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:04.663 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:05.341 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:05.342 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:30.862 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:30.863 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:31.725 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:31.726 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:33.231 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:33.231 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:42.056 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:42.057 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:42.756 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:42.758 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:48:43.993 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:48:43.994 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:49:21.457 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:49:21.458 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:43.514 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:43.516 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:44.242 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:44.243 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:46.998 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:46.999 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:47.786 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:47.786 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:54.651 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:54.651 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:56.174 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:56.175 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:58.569 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:58.570 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:50:59.456 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:50:59.457 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:51:00.293 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:51:00.293 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:51:01.931 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:51:01.932 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:51:21.994 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:51:21.994 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:53:21.451 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:53:21.452 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:53:56.182 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:53:56.183 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:53:56.957 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:53:56.958 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:54:23.605 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:54:23.605 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:54:24.557 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:54:24.557 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:54:50.734 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:54:50.735 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:54:53.551 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:54:53.552 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:54:54.617 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:54:54.618 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:54:55.646 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:54:55.646 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:55:21.411 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:55:21.412 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:57:51.264 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:57:51.264 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:58:58.068 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:58:58.069 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:58:59.666 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:58:59.667 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:00.581 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:00.582 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:01.603 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:01.603 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:21.446 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:21.446 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:21.924 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:21.925 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:22.804 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:22.805 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:24.993 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:24.994 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:25.785 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:25.786 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:27.219 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:27.221 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:36.433 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:36.434 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 13:59:37.228 NotebookApp] Saving file at /batch_run.ipynb
+[W 13:59:37.229 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:01:36.136 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:01:36.138 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:01:37.663 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:01:37.664 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:01:39.110 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:01:39.111 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:01:43.230 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:01:43.231 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:01:51.237 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:01:51.238 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:01:54.261 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:01:54.262 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:01:55.787 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:01:55.788 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:02:01.787 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:02:01.788 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:02:04.599 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:02:04.599 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:03:13.220 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:03:13.222 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:03:14.089 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:03:14.090 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:03:15.392 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:03:15.393 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:07:21.439 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:07:21.440 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:08:45.480 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:08:45.481 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:09:02.567 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:09:02.568 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:09:03.716 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:09:03.717 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:09:21.441 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:09:21.442 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:11:22.583 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:11:22.583 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:13:39.423 NotebookApp] Saving file at /session_sw_all.csv
+[I 14:13:40.614 NotebookApp] Saving file at /session_sw_all.csv
+[I 14:13:41.869 NotebookApp] Saving file at /session_sw_all.csv
+[I 14:15:14.851 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:15:14.852 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:15:16.118 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:15:16.119 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:16:57.074 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:16:57.075 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:19:21.442 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:19:21.443 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:19:42.726 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:19:42.727 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:19:45.215 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:19:45.216 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:19:46.421 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:19:46.422 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:19:48.138 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:19:48.139 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:19:52.003 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:19:52.004 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:19:55.230 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:19:55.231 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:20:34.040 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:20:34.041 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:20:35.215 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:20:35.218 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:20:38.026 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:20:38.027 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:20:43.124 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:20:43.125 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:21:21.437 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:21:21.438 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:21:51.182 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:21:51.183 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:22:15.253 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:22:15.254 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:22:52.977 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:22:52.979 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:22:53.842 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:22:53.842 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:22:54.649 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:22:54.650 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:22:55.571 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:22:55.572 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:23:06.865 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:23:06.866 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:23:07.566 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:23:07.567 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:23:52.552 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:23:52.553 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:23:53.302 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:23:53.303 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:23:59.996 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:23:59.997 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:06.266 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:06.267 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:27.003 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:27.005 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:27.898 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:27.899 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:30.353 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:30.354 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:31.289 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:31.290 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:34.231 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:34.232 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:35.080 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:35.080 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:43.347 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:43.347 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:44.373 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:44.374 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:45.297 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:45.297 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:24:46.123 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:24:46.124 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:25:09.595 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:25:09.595 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:25:21.438 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:25:21.439 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:25:28.274 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:25:28.274 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:25:30.176 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:25:30.177 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:25:41.748 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:25:41.748 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:25:45.916 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:25:45.917 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:25:58.053 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:25:58.054 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:26:03.965 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:26:03.966 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:26:04.679 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:26:04.680 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:26:12.284 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:26:12.285 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:26:13.856 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:26:13.856 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:26:14.726 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:26:14.726 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:26:26.961 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:26:26.962 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:26:28.555 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:26:28.556 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:27:20.554 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:27:20.554 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:29:21.442 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:29:21.443 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:31:21.423 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:31:21.424 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:31:52.113 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:31:52.114 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:31:53.351 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:31:53.352 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:03.118 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:03.119 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:05.118 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:05.120 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:06.655 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:06.656 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:07.984 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:07.985 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:10.475 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:10.476 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:11.767 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:11.768 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:12.990 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:12.991 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:17.250 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:17.252 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:19.679 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:19.680 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:30.305 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:30.305 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:47.160 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:47.161 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:48.063 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:48.065 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:32:52.034 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:32:52.035 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:33:17.230 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:33:17.231 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:33:18.818 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:33:18.818 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:33:19.555 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:33:19.556 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:33:58.026 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:33:58.028 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:33:58.880 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:33:58.881 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:00.434 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:00.435 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:01.504 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:01.505 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:05.716 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:05.717 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:06.562 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:06.564 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:07.737 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:07.738 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:08.498 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:08.499 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:35.137 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:35.138 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:42.917 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:42.918 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:43.810 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:43.811 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:47.754 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:47.755 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:52.468 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:52.469 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:53.445 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:53.446 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:55.181 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:55.182 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:56.471 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:56.473 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:34:59.588 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:34:59.588 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:02.212 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:02.213 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:04.374 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:04.375 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:07.200 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:07.201 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:08.146 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:08.147 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:11.300 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:11.301 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:23.710 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:23.711 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:24.626 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:24.627 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:44.754 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:44.755 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:45.484 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:45.485 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:46.475 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:46.476 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:48.972 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:48.973 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:49.851 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:49.853 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:50.684 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:50.686 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:51.581 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:51.582 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:53.163 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:53.164 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:55.031 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:55.032 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:55.622 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:55.623 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:57.973 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:57.973 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:35:59.486 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:35:59.486 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:39.689 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:39.690 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:40.787 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:40.788 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:41.693 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:41.694 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:43.351 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:43.351 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:48.984 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:48.985 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:49.701 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:49.702 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:50.523 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:50.524 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:51.501 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:51.502 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:36:54.136 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:36:54.137 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:37:20.001 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:37:20.003 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:37:45.879 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:37:45.880 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:37:46.951 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:37:46.952 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:37:48.675 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:37:48.676 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:37:50.547 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:37:50.548 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:37:52.858 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:37:52.858 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:38:26.204 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:38:26.205 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:38:27.261 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:38:27.262 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:38:49.704 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:38:49.704 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:09.818 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:09.819 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:10.787 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:10.788 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:11.344 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:11.345 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:21.432 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:21.432 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:28.024 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:28.026 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:34.218 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:34.219 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:47.352 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:47.353 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:48.520 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:48.521 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:49.219 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:49.220 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:39:53.361 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:39:53.362 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:41:21.416 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:41:21.417 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:41:46.198 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:41:46.199 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:42:22.596 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:42:22.597 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:42:33.020 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:42:33.021 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:46:32.748 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:46:32.749 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:48:23.836 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:48:23.837 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 14:48:24.659 NotebookApp] Saving file at /batch_run.ipynb
+[W 14:48:24.660 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[W 02:04:06.359 NotebookApp] Notebook batch_run.ipynb is not trusted
+[W 02:04:07.734 NotebookApp] 404 GET /kernelspecs/Python%20[Root]/logo-64x64.png (192.168.36.66) 2.88ms referer=http://192.168.36.16:21643/notebooks/batch_run.ipynb
+[I 02:06:07.784 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:06:07.784 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:08:07.801 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:08:07.802 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[W 02:21:44.169 NotebookApp] Notebook opmap/batch/batch_run.ipynb is not trusted
+[W 02:21:44.718 NotebookApp] 404 GET /kernelspecs/Python%20[Root]/logo-64x64.png (192.168.36.66) 2.74ms referer=http://192.168.36.16:21643/notebooks/opmap/batch/batch_run.ipynb
+[I 02:22:07.767 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:22:07.770 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:24:07.758 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:24:07.759 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:25:38.064 NotebookApp] New terminal with automatic name: 1
+[W 02:25:38.067 NotebookApp] 404 GET /favicon.ico (192.168.36.66) 1.37ms referer=None
+[I 02:26:07.774 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:26:07.775 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:26:41.873 NotebookApp] Kernel interrupted: 7ee2dba9-5dfa-4d74-87e9-3a48cf919ddb
+[I 02:26:43.374 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:26:43.374 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:28:06.666 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:28:06.667 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:28:17.662 NotebookApp] EOF on FD 14; stopping reading
+[I 02:28:17.763 NotebookApp] Terminal 1 closed
+[I 02:28:22.987 NotebookApp] New terminal with automatic name: 1
+[W 02:28:22.990 NotebookApp] 404 GET /favicon.ico (192.168.36.66) 1.78ms referer=None
+[I 02:30:07.937 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:30:07.939 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:33:43.737 NotebookApp] Saving file at /session_sw_representative.csv
+[I 02:34:07.955 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:34:07.955 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:34:09.312 NotebookApp] Saving file at /session_sw_representative.csv
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+extra/%06d./mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap_ex: No such file or directory
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+extra/%06d./mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pvmap_ex: No such file or directory
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+extra/%06d./mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/psmap_ex: No such file or directory
+[I 02:35:12.152 NotebookApp] Kernel interrupted: 7ee2dba9-5dfa-4d74-87e9-3a48cf919ddb
+[I 02:36:07.762 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:36:07.763 NotebookApp] Saving untrusted notebook batch_run.ipynb
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap_ex/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 96x96 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x1df9fc0] using SAR=1/1
+[libx264 @ 0x1df9fc0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x1df9fc0] profile High, level 1.0
+[libx264 @ 0x1df9fc0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=3 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=20 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap_ex.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 96x96 [SAR 1:1 DAR 1:1], q=-1--1, 20 fps, 10240 tbn, 20 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+frame=  301 fps=0.0 q=28.0 size=       5kB time=00:00:12.60 bitrate=   3.0kbits/s    frame=  497 fps=496 q=28.0 size=       7kB time=00:00:22.40 bitrate=   2.7kbits/s    frame=  691 fps=459 q=28.0 size=      10kB time=00:00:32.10 bitrate=   2.6kbits/s    frame=  884 fps=441 q=28.0 size=      13kB time=00:00:41.75 bitrate=   2.6kbits/s    frame= 1076 fps=429 q=28.0 size=      16kB time=00:00:51.35 bitrate=   2.6kbits/s    frame= 1266 fps=421 q=28.0 size=      19kB time=00:01:00.85 bitrate=   2.5kbits/s    frame= 1461 fps=417 q=28.0 size=      22kB time=00:01:10.60 bitrate=   2.5kbits/s    frame= 1656 fps=413 q=28.0 size=      25kB time=00:01:20.35 bitrate=   2.5kbits/s    frame= 1854 fps=411 q=28.0 size=      28kB time=00:01:30.25 bitrate=   2.5kbits/s    frame= 2000 fps=410 q=-1.0 Lsize=      55kB time=00:01:39.90 bitrate=   4.5kbits/s    
+video:31kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 79.341774%
+[libx264 @ 0x1df9fc0] frame I:8     Avg QP:10.79  size:   151
+[libx264 @ 0x1df9fc0] frame P:504   Avg QP: 8.09  size:    21
+[libx264 @ 0x1df9fc0] frame B:1488  Avg QP:12.33  size:    13
+[libx264 @ 0x1df9fc0] consecutive B-frames:  0.8%  0.0%  0.0% 99.2%
+[libx264 @ 0x1df9fc0] mb I  I16..4: 84.7%  6.9%  8.3%
+[libx264 @ 0x1df9fc0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0x1df9fc0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+[libx264 @ 0x1df9fc0] 8x8 transform intra:6.9%
+[libx264 @ 0x1df9fc0] coded y,uvDC,uvAC intra: 2.1% 11.1% 8.3% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0x1df9fc0] i16 v,h,dc,p: 70% 13% 16%  0%
+[libx264 @ 0x1df9fc0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0%  0% 100%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x1df9fc0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29% 10% 60%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x1df9fc0] i8c dc,h,v,p: 75% 11% 14%  0%
+[libx264 @ 0x1df9fc0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x1df9fc0] kb/s:2.45
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pvmap_ex/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 96x96 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x2378fc0] using SAR=1/1
+[libx264 @ 0x2378fc0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x2378fc0] profile High, level 1.0
+[libx264 @ 0x2378fc0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=3 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=20 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pvmap_ex.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 96x96 [SAR 1:1 DAR 1:1], q=-1--1, 20 fps, 10240 tbn, 20 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+frame=  306 fps=0.0 q=28.0 size=       5kB time=00:00:12.85 bitrate=   2.9kbits/s    frame=  496 fps=495 q=28.0 size=       7kB time=00:00:22.35 bitrate=   2.7kbits/s    frame=  686 fps=457 q=28.0 size=      10kB time=00:00:31.85 bitrate=   2.6kbits/s    frame=  878 fps=438 q=28.0 size=      13kB time=00:00:41.45 bitrate=   2.6kbits/s    frame= 1065 fps=425 q=28.0 size=      16kB time=00:00:50.80 bitrate=   2.5kbits/s    frame= 1259 fps=419 q=28.0 size=      18kB time=00:01:00.50 bitrate=   2.5kbits/s    frame= 1452 fps=414 q=28.0 size=      21kB time=00:01:10.15 bitrate=   2.5kbits/s    frame= 1635 fps=408 q=28.0 size=      24kB time=00:01:19.30 bitrate=   2.5kbits/s    frame= 1824 fps=404 q=28.0 size=      27kB time=00:01:28.75 bitrate=   2.5kbits/s    frame= 2000 fps=404 q=-1.0 Lsize=      54kB time=00:01:39.90 bitrate=   4.4kbits/s    
+video:30kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 80.817726%
+[libx264 @ 0x2378fc0] frame I:8     Avg QP: 9.35  size:    80
+[libx264 @ 0x2378fc0] frame P:504   Avg QP: 8.09  size:    21
+[libx264 @ 0x2378fc0] frame B:1488  Avg QP:12.33  size:    13
+[libx264 @ 0x2378fc0] consecutive B-frames:  0.8%  0.0%  0.0% 99.2%
+[libx264 @ 0x2378fc0] mb I  I16..4: 94.4%  0.0%  5.6%
+[libx264 @ 0x2378fc0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0x2378fc0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+[libx264 @ 0x2378fc0] 8x8 transform intra:0.0%
+[libx264 @ 0x2378fc0] coded y,uvDC,uvAC intra: 1.4% 0.0% 0.0% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0x2378fc0] i16 v,h,dc,p: 71% 12% 18%  0%
+[libx264 @ 0x2378fc0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 16% 59%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x2378fc0] i8c dc,h,v,p: 100%  0%  0%  0%
+[libx264 @ 0x2378fc0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x2378fc0] kb/s:2.40
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/psmap_ex/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 96x96 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x12e0b00] using SAR=1/1
+[libx264 @ 0x12e0b00] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x12e0b00] profile High, level 1.0
+[libx264 @ 0x12e0b00] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=3 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=20 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/psmap_ex.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 96x96 [SAR 1:1 DAR 1:1], q=-1--1, 20 fps, 10240 tbn, 20 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+frame=  302 fps=0.0 q=28.0 size=       4kB time=00:00:12.65 bitrate=   2.9kbits/s    frame=  486 fps=485 q=28.0 size=       7kB time=00:00:21.85 bitrate=   2.7kbits/s    frame=  669 fps=445 q=28.0 size=      10kB time=00:00:31.00 bitrate=   2.6kbits/s    frame=  861 fps=430 q=28.0 size=      13kB time=00:00:40.60 bitrate=   2.5kbits/s    frame= 1050 fps=419 q=28.0 size=      15kB time=00:00:50.05 bitrate=   2.5kbits/s    frame= 1239 fps=412 q=28.0 size=      18kB time=00:00:59.50 bitrate=   2.5kbits/s    frame= 1434 fps=409 q=28.0 size=      21kB time=00:01:09.25 bitrate=   2.5kbits/s    frame= 1623 fps=405 q=28.0 size=      24kB time=00:01:18.70 bitrate=   2.5kbits/s    frame= 1816 fps=403 q=28.0 size=      26kB time=00:01:28.35 bitrate=   2.5kbits/s    frame= 2000 fps=403 q=-1.0 Lsize=      54kB time=00:01:39.90 bitrate=   4.4kbits/s    
+video:30kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 81.537605%
+[libx264 @ 0x12e0b00] frame I:8     Avg QP: 5.38  size:    46
+[libx264 @ 0x12e0b00] frame P:504   Avg QP: 8.09  size:    21
+[libx264 @ 0x12e0b00] frame B:1488  Avg QP:12.33  size:    13
+[libx264 @ 0x12e0b00] consecutive B-frames:  0.8%  0.0%  0.0% 99.2%
+[libx264 @ 0x12e0b00] mb I  I16..4: 100.0%  0.0%  0.0%
+[libx264 @ 0x12e0b00] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0x12e0b00] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+[libx264 @ 0x12e0b00] 8x8 transform intra:0.0%
+[libx264 @ 0x12e0b00] coded y,uvDC,uvAC intra: 0.0% 0.0% 0.0% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0x12e0b00] i16 v,h,dc,p: 83%  0% 17%  0%
+[libx264 @ 0x12e0b00] i8c dc,h,v,p: 100%  0%  0%  0%
+[libx264 @ 0x12e0b00] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x12e0b00] kb/s:2.38
+[I 02:37:18.515 NotebookApp] Kernel interrupted: 7ee2dba9-5dfa-4d74-87e9-3a48cf919ddb
+[I 02:37:52.370 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:37:52.371 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:38:07.943 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:38:07.943 NotebookApp] Saving untrusted notebook batch_run.ipynb
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 256x256 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x1121ee0] using SAR=1/1
+[libx264 @ 0x1121ee0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x1121ee0] profile High, level 3.0
+[libx264 @ 0x1121ee0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 256x256 [SAR 1:1 DAR 1:1], q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 240 times
+frame=  244 fps=0.0 q=32.0 size=      37kB time=00:00:02.37 bitrate= 126.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame=  414 fps=413 q=32.0 size=      68kB time=00:00:04.50 bitrate= 123.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 170 times
+frame=  585 fps=388 q=32.0 size=      98kB time=00:00:06.63 bitrate= 121.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 162 times
+frame=  748 fps=373 q=32.0 size=     129kB time=00:00:08.67 bitrate= 122.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame=  918 fps=366 q=32.0 size=     158kB time=00:00:10.80 bitrate= 119.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 168 times
+frame= 1087 fps=361 q=32.0 size=     188kB time=00:00:12.91 bitrate= 119.0kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 171 times
+frame= 1259 fps=359 q=32.0 size=     218kB time=00:00:15.06 bitrate= 118.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 170 times
+frame= 1430 fps=356 q=32.0 size=     248kB time=00:00:17.20 bitrate= 118.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 170 times
+frame= 1601 fps=355 q=32.0 size=     279kB time=00:00:19.33 bitrate= 118.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1771 fps=353 q=32.0 size=     308kB time=00:00:21.46 bitrate= 117.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1941 fps=352 q=32.0 size=     336kB time=00:00:23.58 bitrate= 116.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 60 times
+frame= 2002 fps=350 q=-1.0 Lsize=     379kB time=00:00:25.00 bitrate= 124.2kbits/s dup=2 drop=0    
+video:355kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 6.731211%
+[libx264 @ 0x1121ee0] frame I:12    Avg QP:21.14  size:   963
+[libx264 @ 0x1121ee0] frame P:1017  Avg QP:24.14  size:   251
+[libx264 @ 0x1121ee0] frame B:973   Avg QP:24.90  size:    99
+[libx264 @ 0x1121ee0] consecutive B-frames:  6.9% 81.5%  9.7%  1.8%
+[libx264 @ 0x1121ee0] mb I  I16..4: 33.0% 64.8%  2.2%
+[libx264 @ 0x1121ee0] mb P  I16..4:  6.5%  4.3%  0.0%  P16..4: 30.2%  1.6%  0.7%  0.0%  0.0%    skip:56.6%
+[libx264 @ 0x1121ee0] mb B  I16..4:  0.8%  0.4%  0.0%  B16..8: 17.6%  0.2%  0.0%  direct: 1.5%  skip:79.6%  L0:50.2% L1:49.2% BI: 0.6%
+[libx264 @ 0x1121ee0] 8x8 transform intra:41.3% inter:96.3%
+[libx264 @ 0x1121ee0] coded y,uvDC,uvAC intra: 1.6% 45.0% 8.2% inter: 0.4% 8.6% 0.1%
+[libx264 @ 0x1121ee0] i16 v,h,dc,p: 43% 30%  9% 18%
+[libx264 @ 0x1121ee0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 12%  8% 73%  1%  2%  2%  2%  1%  0%
+[libx264 @ 0x1121ee0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 20% 41%  2%  1%  1%  0%  1%  2%
+[libx264 @ 0x1121ee0] i8c dc,h,v,p: 40% 25% 24% 11%
+[libx264 @ 0x1121ee0] Weighted P-Frames: Y:5.4% UV:5.1%
+[libx264 @ 0x1121ee0] ref P L0: 58.9%  2.5% 26.7% 11.3%  0.7%
+[libx264 @ 0x1121ee0] ref B L0: 55.5% 43.1%  1.4%
+[libx264 @ 0x1121ee0] ref B L1: 96.1%  3.9%
+[libx264 @ 0x1121ee0] kb/s:116.04
+[I 02:40:07.940 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:40:07.941 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:42:07.940 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:42:07.941 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:48:15.919 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:48:15.920 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[W 02:48:32.572 NotebookApp] 404 GET /favicon.ico (192.168.36.66) 2.04ms referer=None
+[I 02:48:32.605 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:48:32.606 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:49:21.205 NotebookApp] Kernel interrupted: 7ee2dba9-5dfa-4d74-87e9-3a48cf919ddb
+[I 02:49:27.874 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:49:27.874 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:49:33.201 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:49:33.202 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 02:50:07.947 NotebookApp] Saving file at /batch_run.ipynb
+[W 02:50:07.948 NotebookApp] Saving untrusted notebook batch_run.ipynb
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 256x256 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x137bee0] using SAR=1/1
+[libx264 @ 0x137bee0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x137bee0] profile High, level 3.0
+[libx264 @ 0x137bee0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 256x256 [SAR 1:1 DAR 1:1], q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 192 times
+frame=  196 fps=0.0 q=32.0 size=      28kB time=00:00:01.77 bitrate= 127.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 71 times
+frame=  268 fps=267 q=32.0 size=      41kB time=00:00:02.67 bitrate= 126.4kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 36 times
+frame=  305 fps=203 q=32.0 size=      48kB time=00:00:03.13 bitrate= 125.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 52 times
+frame=  358 fps=178 q=32.0 size=      58kB time=00:00:03.80 bitrate= 124.4kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 150 times
+frame=  509 fps=203 q=32.0 size=      85kB time=00:00:05.68 bitrate= 122.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 168 times
+frame=  678 fps=225 q=32.0 size=     116kB time=00:00:07.80 bitrate= 122.0kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 163 times
+frame=  842 fps=240 q=32.0 size=     145kB time=00:00:09.85 bitrate= 120.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 168 times
+frame= 1011 fps=252 q=32.0 size=     175kB time=00:00:11.96 bitrate= 119.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1181 fps=262 q=32.0 size=     204kB time=00:00:14.08 bitrate= 118.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 168 times
+frame= 1350 fps=269 q=32.0 size=     234kB time=00:00:16.20 bitrate= 118.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 166 times
+frame= 1517 fps=275 q=32.0 size=     264kB time=00:00:18.28 bitrate= 118.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 168 times
+frame= 1686 fps=280 q=32.0 size=     293kB time=00:00:20.40 bitrate= 117.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 167 times
+frame= 1854 fps=284 q=32.0 size=     323kB time=00:00:22.50 bitrate= 117.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 147 times
+frame= 2002 fps=286 q=-1.0 Lsize=     379kB time=00:00:25.00 bitrate= 124.2kbits/s dup=2 drop=0    
+video:355kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 6.731211%
+[libx264 @ 0x137bee0] frame I:12    Avg QP:21.14  size:   963
+[libx264 @ 0x137bee0] frame P:1017  Avg QP:24.14  size:   251
+[libx264 @ 0x137bee0] frame B:973   Avg QP:24.90  size:    99
+[libx264 @ 0x137bee0] consecutive B-frames:  6.9% 81.5%  9.7%  1.8%
+[libx264 @ 0x137bee0] mb I  I16..4: 33.0% 64.8%  2.2%
+[libx264 @ 0x137bee0] mb P  I16..4:  6.5%  4.3%  0.0%  P16..4: 30.2%  1.6%  0.7%  0.0%  0.0%    skip:56.6%
+[libx264 @ 0x137bee0] mb B  I16..4:  0.8%  0.4%  0.0%  B16..8: 17.6%  0.2%  0.0%  direct: 1.5%  skip:79.6%  L0:50.2% L1:49.2% BI: 0.6%
+[libx264 @ 0x137bee0] 8x8 transform intra:41.3% inter:96.3%
+[libx264 @ 0x137bee0] coded y,uvDC,uvAC intra: 1.6% 45.0% 8.2% inter: 0.4% 8.6% 0.1%
+[libx264 @ 0x137bee0] i16 v,h,dc,p: 43% 30%  9% 18%
+[libx264 @ 0x137bee0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 12%  8% 73%  1%  2%  2%  2%  1%  0%
+[libx264 @ 0x137bee0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 20% 41%  2%  1%  1%  0%  1%  2%
+[libx264 @ 0x137bee0] i8c dc,h,v,p: 40% 25% 24% 11%
+[libx264 @ 0x137bee0] Weighted P-Frames: Y:5.4% UV:5.1%
+[libx264 @ 0x137bee0] ref P L0: 58.9%  2.5% 26.7% 11.3%  0.7%
+[libx264 @ 0x137bee0] ref B L0: 55.5% 43.1%  1.4%
+[libx264 @ 0x137bee0] ref B L1: 96.1%  3.9%
+[libx264 @ 0x137bee0] kb/s:116.04
