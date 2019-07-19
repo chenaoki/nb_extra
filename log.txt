@@ -1290,3 +1290,669 @@ video:355kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing o
 [libx264 @ 0xdceee0] ref B L0: 55.5% 43.1%  1.4%
 [libx264 @ 0xdceee0] ref B L1: 96.1%  3.9%
 [libx264 @ 0xdceee0] kb/s:116.04
+[I 03:00:07.944 NotebookApp] Saving file at /batch_run.ipynb
+[W 03:00:07.945 NotebookApp] Saving untrusted notebook batch_run.ipynb
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem_mask/%06d.png':
+  Duration: 00:01:20.04, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgb24(pc), 256x256, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0xff34c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0xff34c0] profile High, level 3.0
+[libx264 @ 0xff34c0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem_mask.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 256x256, q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 194 times
+frame=  198 fps=0.0 q=32.0 size=      17kB time=00:00:01.80 bitrate=  79.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 83 times
+frame=  282 fps=280 q=32.0 size=      28kB time=00:00:02.85 bitrate=  79.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 94 times
+frame=  377 fps=250 q=32.0 size=      38kB time=00:00:04.03 bitrate=  77.0kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 75 times
+frame=  453 fps=225 q=32.0 size=      46kB time=00:00:04.98 bitrate=  75.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 83 times
+frame=  537 fps=213 q=32.0 size=      57kB time=00:00:06.03 bitrate=  77.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 69 times
+frame=  607 fps=201 q=32.0 size=      64kB time=00:00:06.91 bitrate=  75.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 71 times
+frame=  679 fps=192 q=32.0 size=      73kB time=00:00:07.81 bitrate=  76.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 79 times
+frame=  759 fps=188 q=32.0 size=      82kB time=00:00:08.81 bitrate=  76.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 89 times
+frame=  849 fps=187 q=32.0 size=      92kB time=00:00:09.93 bitrate=  75.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 78 times
+frame=  928 fps=184 q=32.0 size=     101kB time=00:00:10.92 bitrate=  75.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 73 times
+frame= 1002 fps=180 q=32.0 size=     109kB time=00:00:11.85 bitrate=  75.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 109 times
+frame= 1112 fps=183 q=32.0 size=     121kB time=00:00:13.22 bitrate=  74.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 170 times
+frame= 1283 fps=196 q=32.0 size=     139kB time=00:00:15.36 bitrate=  74.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1453 fps=206 q=32.0 size=     159kB time=00:00:17.48 bitrate=  74.4kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1623 fps=215 q=32.0 size=     178kB time=00:00:19.61 bitrate=  74.4kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 170 times
+frame= 1794 fps=222 q=32.0 size=     196kB time=00:00:21.75 bitrate=  73.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1964 fps=229 q=32.0 size=     213kB time=00:00:23.87 bitrate=  73.0kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 38 times
+frame= 2003 fps=230 q=-1.0 Lsize=     249kB time=00:00:25.01 bitrate=  81.6kbits/s dup=2 drop=0    
+video:225kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 10.806900%
+[libx264 @ 0xff34c0] frame I:9     Avg QP:18.57  size:   799
+[libx264 @ 0xff34c0] frame P:705   Avg QP:21.75  size:   216
+[libx264 @ 0xff34c0] frame B:1289  Avg QP:22.03  size:    54
+[libx264 @ 0xff34c0] consecutive B-frames:  1.5% 30.1% 24.1% 44.3%
+[libx264 @ 0xff34c0] mb I  I16..4: 30.4% 69.1%  0.5%
+[libx264 @ 0xff34c0] mb P  I16..4:  4.6%  6.7%  0.1%  P16..4: 20.1%  1.1%  0.5%  0.0%  0.0%    skip:66.9%
+[libx264 @ 0xff34c0] mb B  I16..4:  0.3%  0.1%  0.0%  B16..8:  8.0%  0.1%  0.0%  direct: 1.1%  skip:90.3%  L0:40.9% L1:58.8% BI: 0.2%
+[libx264 @ 0xff34c0] 8x8 transform intra:58.2% inter:96.3%
+[libx264 @ 0xff34c0] coded y,uvDC,uvAC intra: 1.9% 32.9% 7.7% inter: 0.3% 4.9% 0.1%
+[libx264 @ 0xff34c0] i16 v,h,dc,p: 53% 27%  9% 11%
+[libx264 @ 0xff34c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11%  7% 76%  1%  2%  1%  1%  1%  0%
+[libx264 @ 0xff34c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 48% 23% 19%  2%  2%  2%  2%  1%  1%
+[libx264 @ 0xff34c0] i8c dc,h,v,p: 55% 22% 20%  4%
+[libx264 @ 0xff34c0] Weighted P-Frames: Y:9.4% UV:8.7%
+[libx264 @ 0xff34c0] ref P L0: 68.1%  3.0% 19.9%  8.0%  0.9%
+[libx264 @ 0xff34c0] ref B L0: 67.8% 28.4%  3.8%
+[libx264 @ 0xff34c0] ref B L1: 89.1% 10.9%
+[libx264 @ 0xff34c0] kb/s:73.31
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 128x128 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x20c7ba0] using SAR=1/1
+[libx264 @ 0x20c7ba0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x20c7ba0] profile High, level 1.2
+[libx264 @ 0x20c7ba0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=4 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 128x128 [SAR 1:1 DAR 1:1], q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 283 times
+frame=  287 fps=0.0 q=32.0 size=      89kB time=00:00:02.96 bitrate= 247.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 193 times
+frame=  481 fps=479 q=32.0 size=     162kB time=00:00:05.38 bitrate= 245.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame=  672 fps=446 q=32.0 size=     228kB time=00:00:07.77 bitrate= 240.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame=  864 fps=430 q=32.0 size=     299kB time=00:00:10.17 bitrate= 240.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame= 1056 fps=421 q=32.0 size=     377kB time=00:00:12.57 bitrate= 245.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 189 times
+frame= 1246 fps=414 q=32.0 size=     450kB time=00:00:14.95 bitrate= 246.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 192 times
+frame= 1439 fps=410 q=32.0 size=     522kB time=00:00:17.36 bitrate= 246.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame= 1631 fps=407 q=32.0 size=     593kB time=00:00:19.76 bitrate= 245.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame= 1823 fps=404 q=32.0 size=     668kB time=00:00:22.16 bitrate= 246.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 178 times
+frame= 2002 fps=401 q=-1.0 Lsize=     769kB time=00:00:25.00 bitrate= 252.0kbits/s dup=2 drop=0    
+video:749kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.734681%
+[libx264 @ 0x20c7ba0] frame I:9     Avg QP:27.65  size:  2925
+[libx264 @ 0x20c7ba0] frame P:1360  Avg QP:30.40  size:   510
+[libx264 @ 0x20c7ba0] frame B:633   Avg QP:35.70  size:    72
+[libx264 @ 0x20c7ba0] consecutive B-frames: 37.0% 62.2%  0.7%  0.0%
+[libx264 @ 0x20c7ba0] mb I  I16..4:  4.9% 12.5% 82.6%
+[libx264 @ 0x20c7ba0] mb P  I16..4:  0.9%  0.9%  1.0%  P16..4: 35.1% 23.9% 19.2%  0.0%  0.0%    skip:18.9%
+[libx264 @ 0x20c7ba0] mb B  I16..4:  0.1%  0.2%  0.0%  B16..8: 36.5%  7.1%  1.4%  direct: 1.3%  skip:53.3%  L0:26.9% L1:66.0% BI: 7.1%
+[libx264 @ 0x20c7ba0] 8x8 transform intra:29.4% inter:36.1%
+[libx264 @ 0x20c7ba0] coded y,uvDC,uvAC intra: 30.9% 74.8% 59.4% inter: 15.3% 32.9% 20.0%
+[libx264 @ 0x20c7ba0] i16 v,h,dc,p: 33% 38% 28%  1%
+[libx264 @ 0x20c7ba0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13% 11% 64%  3%  2%  2%  2%  2%  2%
+[libx264 @ 0x20c7ba0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 24% 28%  2%  3%  3%  3%  2%  2%
+[libx264 @ 0x20c7ba0] i8c dc,h,v,p: 37% 31% 29%  3%
+[libx264 @ 0x20c7ba0] Weighted P-Frames: Y:0.1% UV:0.1%
+[libx264 @ 0x20c7ba0] ref P L0: 84.0%  8.0%  6.2%  1.8%  0.0%
+[libx264 @ 0x20c7ba0] ref B L0: 88.5% 11.5%
+[libx264 @ 0x20c7ba0] ref B L1: 99.9%  0.1%
+[libx264 @ 0x20c7ba0] kb/s:244.83
+[I 03:02:07.931 NotebookApp] Saving file at /batch_run.ipynb
+[W 03:02:07.931 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 03:08:08.746 NotebookApp] Saving file at /batch_run.ipynb
+[W 03:08:08.747 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 03:09:22.194 NotebookApp] Saving file at /batch_run.ipynb
+[W 03:09:22.195 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 03:09:51.081 NotebookApp] Kernel interrupted: 7ee2dba9-5dfa-4d74-87e9-3a48cf919ddb
+[I 03:09:52.515 NotebookApp] Saving file at /batch_run.ipynb
+[W 03:09:52.516 NotebookApp] Saving untrusted notebook batch_run.ipynb
+[I 03:10:07.950 NotebookApp] Saving file at /batch_run.ipynb
+[W 03:10:07.951 NotebookApp] Saving untrusted notebook batch_run.ipynb
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 256x256 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x148eee0] using SAR=1/1
+[libx264 @ 0x148eee0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x148eee0] profile High, level 3.0
+[libx264 @ 0x148eee0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 256x256 [SAR 1:1 DAR 1:1], q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 197 times
+frame=  201 fps=0.0 q=32.0 size=      29kB time=00:00:01.83 bitrate= 127.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 90 times
+frame=  292 fps=289 q=32.0 size=      46kB time=00:00:02.97 bitrate= 127.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 72 times
+frame=  365 fps=241 q=32.0 size=      59kB time=00:00:03.88 bitrate= 124.0kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 78 times
+frame=  444 fps=220 q=32.0 size=      73kB time=00:00:04.87 bitrate= 121.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 96 times
+frame=  541 fps=214 q=32.0 size=      91kB time=00:00:06.08 bitrate= 123.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame=  711 fps=235 q=32.0 size=     122kB time=00:00:08.21 bitrate= 121.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame=  881 fps=250 q=32.0 size=     152kB time=00:00:10.33 bitrate= 120.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1051 fps=261 q=32.0 size=     182kB time=00:00:12.46 bitrate= 119.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1221 fps=270 q=32.0 size=     212kB time=00:00:14.58 bitrate= 118.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1391 fps=276 q=32.0 size=     242kB time=00:00:16.71 bitrate= 118.4kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1561 fps=282 q=32.0 size=     272kB time=00:00:18.83 bitrate= 118.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1731 fps=287 q=32.0 size=     301kB time=00:00:20.96 bitrate= 117.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 167 times
+frame= 1899 fps=290 q=32.0 size=     330kB time=00:00:23.06 bitrate= 117.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 102 times
+frame= 2002 fps=292 q=-1.0 Lsize=     379kB time=00:00:25.00 bitrate= 124.2kbits/s dup=2 drop=0    
+video:355kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 6.731211%
+[libx264 @ 0x148eee0] frame I:12    Avg QP:21.14  size:   963
+[libx264 @ 0x148eee0] frame P:1017  Avg QP:24.14  size:   251
+[libx264 @ 0x148eee0] frame B:973   Avg QP:24.90  size:    99
+[libx264 @ 0x148eee0] consecutive B-frames:  6.9% 81.5%  9.7%  1.8%
+[libx264 @ 0x148eee0] mb I  I16..4: 33.0% 64.8%  2.2%
+[libx264 @ 0x148eee0] mb P  I16..4:  6.5%  4.3%  0.0%  P16..4: 30.2%  1.6%  0.7%  0.0%  0.0%    skip:56.6%
+[libx264 @ 0x148eee0] mb B  I16..4:  0.8%  0.4%  0.0%  B16..8: 17.6%  0.2%  0.0%  direct: 1.5%  skip:79.6%  L0:50.2% L1:49.2% BI: 0.6%
+[libx264 @ 0x148eee0] 8x8 transform intra:41.3% inter:96.3%
+[libx264 @ 0x148eee0] coded y,uvDC,uvAC intra: 1.6% 45.0% 8.2% inter: 0.4% 8.6% 0.1%
+[libx264 @ 0x148eee0] i16 v,h,dc,p: 43% 30%  9% 18%
+[libx264 @ 0x148eee0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 12%  8% 73%  1%  2%  2%  2%  1%  0%
+[libx264 @ 0x148eee0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 20% 41%  2%  1%  1%  0%  1%  2%
+[libx264 @ 0x148eee0] i8c dc,h,v,p: 40% 25% 24% 11%
+[libx264 @ 0x148eee0] Weighted P-Frames: Y:5.4% UV:5.1%
+[libx264 @ 0x148eee0] ref P L0: 58.9%  2.5% 26.7% 11.3%  0.7%
+[libx264 @ 0x148eee0] ref B L0: 55.5% 43.1%  1.4%
+[libx264 @ 0x148eee0] ref B L1: 96.1%  3.9%
+[libx264 @ 0x148eee0] kb/s:116.04
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem_mask/%06d.png':
+  Duration: 00:01:20.04, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgb24(pc), 256x256, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x2301f20] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x2301f20] profile High, level 3.0
+[libx264 @ 0x2301f20] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/vmem_mask.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 256x256, q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 193 times
+frame=  197 fps=0.0 q=32.0 size=      15kB time=00:00:01.78 bitrate=  67.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 93 times
+frame=  291 fps=288 q=32.0 size=      23kB time=00:00:02.96 bitrate=  64.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 81 times
+frame=  373 fps=246 q=32.0 size=      32kB time=00:00:03.98 bitrate=  65.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 102 times
+frame=  476 fps=236 q=32.0 size=      41kB time=00:00:05.27 bitrate=  64.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 129 times
+frame=  606 fps=241 q=32.0 size=      54kB time=00:00:06.90 bitrate=  64.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame=  776 fps=257 q=32.0 size=      70kB time=00:00:09.02 bitrate=  63.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 172 times
+frame=  949 fps=269 q=32.0 size=      86kB time=00:00:11.18 bitrate=  62.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 168 times
+frame= 1118 fps=278 q=32.0 size=     101kB time=00:00:13.30 bitrate=  62.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 165 times
+frame= 1284 fps=284 q=32.0 size=     115kB time=00:00:15.37 bitrate=  61.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 170 times
+frame= 1455 fps=289 q=32.0 size=     131kB time=00:00:17.51 bitrate=  61.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 169 times
+frame= 1625 fps=294 q=32.0 size=     147kB time=00:00:19.63 bitrate=  61.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 131 times
+frame= 1757 fps=291 q=32.0 size=     158kB time=00:00:21.28 bitrate=  60.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 172 times
+frame= 1930 fps=295 q=32.0 size=     172kB time=00:00:23.45 bitrate=  60.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 72 times
+frame= 2003 fps=296 q=-1.0 Lsize=     209kB time=00:00:25.01 bitrate=  68.5kbits/s dup=2 drop=0    
+video:185kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 13.126840%
+[libx264 @ 0x2301f20] frame I:9     Avg QP:19.80  size:  1522
+[libx264 @ 0x2301f20] frame P:555   Avg QP:21.68  size:   189
+[libx264 @ 0x2301f20] frame B:1439  Avg QP:21.47  size:    49
+[libx264 @ 0x2301f20] consecutive B-frames:  1.5%  4.5% 10.5% 83.5%
+[libx264 @ 0x2301f20] mb I  I16..4: 31.6% 53.9% 14.5%
+[libx264 @ 0x2301f20] mb P  I16..4:  4.8%  6.8%  0.0%  P16..4: 16.8%  0.7%  0.2%  0.0%  0.0%    skip:70.7%
+[libx264 @ 0x2301f20] mb B  I16..4:  0.3%  0.1%  0.0%  B16..8:  6.2%  0.1%  0.0%  direct: 1.2%  skip:92.1%  L0:39.9% L1:60.0% BI: 0.1%
+[libx264 @ 0x2301f20] 8x8 transform intra:55.9% inter:94.3%
+[libx264 @ 0x2301f20] coded y,uvDC,uvAC intra: 2.1% 31.5% 5.4% inter: 0.2% 3.9% 0.0%
+[libx264 @ 0x2301f20] i16 v,h,dc,p: 55% 29%  9%  8%
+[libx264 @ 0x2301f20] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11%  8% 76%  1%  1%  1%  1%  0%  0%
+[libx264 @ 0x2301f20] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 47% 19% 23%  3%  2%  1%  2%  1%  1%
+[libx264 @ 0x2301f20] i8c dc,h,v,p: 54% 23% 20%  3%
+[libx264 @ 0x2301f20] Weighted P-Frames: Y:0.2% UV:0.2%
+[libx264 @ 0x2301f20] ref P L0: 72.0%  5.0% 16.4%  6.6%
+[libx264 @ 0x2301f20] ref B L0: 70.4% 24.4%  5.2%
+[libx264 @ 0x2301f20] ref B L1: 87.8% 12.2%
+[libx264 @ 0x2301f20] kb/s:60.24
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 128x128 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x20cbba0] using SAR=1/1
+[libx264 @ 0x20cbba0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x20cbba0] profile High, level 1.2
+[libx264 @ 0x20cbba0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=4 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 128x128 [SAR 1:1 DAR 1:1], q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 288 times
+frame=  292 fps=0.0 q=32.0 size=      92kB time=00:00:03.02 bitrate= 247.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 189 times
+frame=  482 fps=481 q=32.0 size=     162kB time=00:00:05.40 bitrate= 245.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 193 times
+frame=  676 fps=449 q=32.0 size=     230kB time=00:00:07.82 bitrate= 240.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame=  868 fps=433 q=32.0 size=     300kB time=00:00:10.22 bitrate= 240.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame= 1060 fps=423 q=32.0 size=     379kB time=00:00:12.62 bitrate= 245.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame= 1251 fps=416 q=32.0 size=     452kB time=00:00:15.01 bitrate= 246.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 189 times
+frame= 1441 fps=410 q=32.0 size=     523kB time=00:00:17.38 bitrate= 246.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 185 times
+frame= 1627 fps=405 q=32.0 size=     592kB time=00:00:19.71 bitrate= 245.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 192 times
+frame= 1820 fps=403 q=32.0 size=     666kB time=00:00:22.12 bitrate= 246.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 181 times
+frame= 2002 fps=401 q=-1.0 Lsize=     769kB time=00:00:25.00 bitrate= 252.0kbits/s dup=2 drop=0    
+video:749kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.734681%
+[libx264 @ 0x20cbba0] frame I:9     Avg QP:27.65  size:  2925
+[libx264 @ 0x20cbba0] frame P:1360  Avg QP:30.40  size:   510
+[libx264 @ 0x20cbba0] frame B:633   Avg QP:35.70  size:    72
+[libx264 @ 0x20cbba0] consecutive B-frames: 37.0% 62.2%  0.7%  0.0%
+[libx264 @ 0x20cbba0] mb I  I16..4:  4.9% 12.5% 82.6%
+[libx264 @ 0x20cbba0] mb P  I16..4:  0.9%  0.9%  1.0%  P16..4: 35.1% 23.9% 19.2%  0.0%  0.0%    skip:18.9%
+[libx264 @ 0x20cbba0] mb B  I16..4:  0.1%  0.2%  0.0%  B16..8: 36.5%  7.1%  1.4%  direct: 1.3%  skip:53.3%  L0:26.9% L1:66.0% BI: 7.1%
+[libx264 @ 0x20cbba0] 8x8 transform intra:29.4% inter:36.1%
+[libx264 @ 0x20cbba0] coded y,uvDC,uvAC intra: 30.9% 74.8% 59.4% inter: 15.3% 32.9% 20.0%
+[libx264 @ 0x20cbba0] i16 v,h,dc,p: 33% 38% 28%  1%
+[libx264 @ 0x20cbba0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13% 11% 64%  3%  2%  2%  2%  2%  2%
+[libx264 @ 0x20cbba0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 24% 28%  2%  3%  3%  3%  2%  2%
+[libx264 @ 0x20cbba0] i8c dc,h,v,p: 37% 31% 29%  3%
+[libx264 @ 0x20cbba0] Weighted P-Frames: Y:0.1% UV:0.1%
+[libx264 @ 0x20cbba0] ref P L0: 84.0%  8.0%  6.2%  1.8%  0.0%
+[libx264 @ 0x20cbba0] ref B L0: 88.5% 11.5%
+[libx264 @ 0x20cbba0] ref B L1: 99.9%  0.1%
+[libx264 @ 0x20cbba0] kb/s:244.83
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap_mask/%06d.png':
+  Duration: 00:01:20.04, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgb24(pc), 128x128, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0xe0c420] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0xe0c420] profile High, level 1.2
+[libx264 @ 0xe0c420] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=4 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pmap_mask.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 128x128, q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 291 times
+frame=  295 fps=0.0 q=32.0 size=      41kB time=00:00:03.06 bitrate= 110.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 189 times
+frame=  485 fps=484 q=32.0 size=      72kB time=00:00:05.43 bitrate= 107.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 192 times
+frame=  678 fps=450 q=32.0 size=     102kB time=00:00:07.85 bitrate= 106.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame=  870 fps=433 q=32.0 size=     135kB time=00:00:10.25 bitrate= 107.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame= 1061 fps=423 q=32.0 size=     170kB time=00:00:12.63 bitrate= 110.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame= 1252 fps=416 q=32.0 size=     201kB time=00:00:15.02 bitrate= 109.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 189 times
+frame= 1442 fps=411 q=32.0 size=     234kB time=00:00:17.40 bitrate= 110.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame= 1634 fps=407 q=32.0 size=     266kB time=00:00:19.80 bitrate= 110.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame= 1825 fps=404 q=32.0 size=     299kB time=00:00:22.18 bitrate= 110.4kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 177 times
+frame= 2003 fps=400 q=-1.0 Lsize=     349kB time=00:00:25.01 bitrate= 114.4kbits/s dup=2 drop=0    
+video:335kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.294713%
+[libx264 @ 0xe0c420] frame I:9     Avg QP:25.53  size:  1999
+[libx264 @ 0xe0c420] frame P:1561  Avg QP:28.00  size:   199
+[libx264 @ 0xe0c420] frame B:433   Avg QP:32.51  size:    33
+[libx264 @ 0xe0c420] consecutive B-frames: 69.8%  0.4% 11.2% 18.6%
+[libx264 @ 0xe0c420] mb I  I16..4:  6.8% 15.1% 78.1%
+[libx264 @ 0xe0c420] mb P  I16..4:  1.0%  0.8%  0.4%  P16..4: 38.1% 11.1%  4.9%  0.0%  0.0%    skip:43.7%
+[libx264 @ 0xe0c420] mb B  I16..4:  0.1%  0.2%  0.0%  B16..8: 21.8%  0.9%  0.1%  direct: 0.1%  skip:76.8%  L0:21.7% L1:76.2% BI: 2.0%
+[libx264 @ 0xe0c420] 8x8 transform intra:33.3% inter:67.7%
+[libx264 @ 0xe0c420] coded y,uvDC,uvAC intra: 28.5% 72.3% 44.9% inter: 9.5% 24.9% 6.7%
+[libx264 @ 0xe0c420] i16 v,h,dc,p: 34% 44% 20%  2%
+[libx264 @ 0xe0c420] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 15% 52%  4%  3%  2%  4%  2%  3%
+[libx264 @ 0xe0c420] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 38% 22% 23%  3%  3%  3%  3%  2%  2%
+[libx264 @ 0xe0c420] i8c dc,h,v,p: 41% 30% 26%  3%
+[libx264 @ 0xe0c420] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0xe0c420] ref P L0: 83.9%  8.9%  5.7%  1.5%
+[libx264 @ 0xe0c420] ref B L0: 90.2%  8.3%  1.6%
+[libx264 @ 0xe0c420] ref B L1: 95.0%  5.0%
+[libx264 @ 0xe0c420] kb/s:109.40
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pvmap/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 128x128 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x174fa40] using SAR=1/1
+[libx264 @ 0x174fa40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x174fa40] profile High, level 1.2
+[libx264 @ 0x174fa40] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=4 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pvmap.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 128x128 [SAR 1:1 DAR 1:1], q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 294 times
+frame=  298 fps=0.0 q=32.0 size=       9kB time=00:00:03.10 bitrate=  22.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 191 times
+frame=  490 fps=489 q=32.0 size=      14kB time=00:00:05.50 bitrate=  21.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 194 times
+frame=  685 fps=455 q=32.0 size=      18kB time=00:00:07.93 bitrate=  18.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 189 times
+frame=  875 fps=436 q=32.0 size=      23kB time=00:00:10.31 bitrate=  18.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame= 1066 fps=425 q=32.0 size=      31kB time=00:00:12.70 bitrate=  20.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 180 times
+frame= 1247 fps=415 q=32.0 size=      38kB time=00:00:14.96 bitrate=  20.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 185 times
+frame= 1433 fps=408 q=32.0 size=      43kB time=00:00:17.28 bitrate=  20.5kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 185 times
+frame= 1619 fps=404 q=32.0 size=      50kB time=00:00:19.61 bitrate=  21.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 185 times
+frame= 1805 fps=400 q=32.0 size=      59kB time=00:00:21.93 bitrate=  22.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 196 times
+frame= 2002 fps=400 q=-1.0 Lsize=      89kB time=00:00:25.00 bitrate=  29.3kbits/s dup=2 drop=0    
+video:68kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 32.005707%
+[libx264 @ 0x174fa40] frame I:9     Avg QP:17.70  size:   205
+[libx264 @ 0x174fa40] frame P:877   Avg QP:20.85  size:    55
+[libx264 @ 0x174fa40] frame B:1116  Avg QP:18.61  size:    17
+[libx264 @ 0x174fa40] consecutive B-frames: 22.9%  6.3%  6.3% 64.5%
+[libx264 @ 0x174fa40] mb I  I16..4: 32.8% 58.7%  8.5%
+[libx264 @ 0x174fa40] mb P  I16..4:  0.5%  1.1%  0.1%  P16..4:  8.9%  2.0%  0.6%  0.0%  0.0%    skip:86.8%
+[libx264 @ 0x174fa40] mb B  I16..4:  0.1%  0.1%  0.0%  B16..8:  3.1%  0.1%  0.0%  direct: 0.0%  skip:96.5%  L0:25.4% L1:72.0% BI: 2.6%
+[libx264 @ 0x174fa40] 8x8 transform intra:60.5% inter:52.5%
+[libx264 @ 0x174fa40] coded y,uvDC,uvAC intra: 10.0% 0.0% 0.0% inter: 0.7% 0.0% 0.0%
+[libx264 @ 0x174fa40] i16 v,h,dc,p: 66% 11% 22%  1%
+[libx264 @ 0x174fa40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 16%  9% 64%  3%  2%  1%  2%  2%  2%
+[libx264 @ 0x174fa40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 22% 18% 38%  6%  4%  3%  3%  3%  3%
+[libx264 @ 0x174fa40] i8c dc,h,v,p: 100%  0%  0%  0%
+[libx264 @ 0x174fa40] Weighted P-Frames: Y:10.7% UV:0.0%
+[libx264 @ 0x174fa40] ref P L0: 84.0%  4.2%  8.7%  2.7%  0.4%
+[libx264 @ 0x174fa40] ref B L0: 73.4% 20.1%  6.5%
+[libx264 @ 0x174fa40] ref B L1: 93.6%  6.4%
+[libx264 @ 0x174fa40] kb/s:21.96
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pvmap_mask/%06d.png':
+  Duration: 00:01:20.04, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgb24(pc), 128x128, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x1591e60] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x1591e60] profile High, level 1.2
+[libx264 @ 0x1591e60] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=4 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/pvmap_mask.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 128x128, q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 288 times
+frame=  292 fps=0.0 q=32.0 size=       7kB time=00:00:03.02 bitrate=  19.4kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 183 times
+frame=  476 fps=475 q=32.0 size=      12kB time=00:00:05.32 bitrate=  18.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame=  667 fps=444 q=32.0 size=      15kB time=00:00:07.71 bitrate=  16.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 192 times
+frame=  860 fps=429 q=32.0 size=      19kB time=00:00:10.12 bitrate=  15.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 185 times
+frame= 1046 fps=417 q=30.0 size=      25kB time=00:00:12.45 bitrate=  16.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 186 times
+frame= 1233 fps=410 q=32.0 size=      31kB time=00:00:14.78 bitrate=  17.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 180 times
+frame= 1414 fps=403 q=32.0 size=      36kB time=00:00:17.05 bitrate=  17.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 182 times
+frame= 1597 fps=398 q=32.0 size=      42kB time=00:00:19.33 bitrate=  17.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 185 times
+frame= 1783 fps=395 q=32.0 size=      47kB time=00:00:21.66 bitrate=  17.8kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 188 times
+frame= 1972 fps=393 q=32.0 size=      53kB time=00:00:24.02 bitrate=  18.1kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 30 times
+frame= 2003 fps=394 q=-1.0 Lsize=      76kB time=00:00:25.01 bitrate=  24.8kbits/s dup=2 drop=0    
+video:55kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 37.299957%
+[libx264 @ 0x1591e60] frame I:9     Avg QP:20.38  size:   662
+[libx264 @ 0x1591e60] frame P:911   Avg QP:18.82  size:    38
+[libx264 @ 0x1591e60] frame B:1083  Avg QP:17.31  size:    14
+[libx264 @ 0x1591e60] consecutive B-frames: 27.9%  0.1%  0.1% 71.9%
+[libx264 @ 0x1591e60] mb I  I16..4: 16.7% 49.7% 33.7%
+[libx264 @ 0x1591e60] mb P  I16..4:  0.3%  0.4%  0.1%  P16..4:  4.5%  1.0%  0.4%  0.0%  0.0%    skip:93.3%
+[libx264 @ 0x1591e60] mb B  I16..4:  0.3%  0.0%  0.0%  B16..8:  1.0%  0.0%  0.0%  direct: 0.0%  skip:98.6%  L0:33.3% L1:65.6% BI: 1.0%
+[libx264 @ 0x1591e60] 8x8 transform intra:44.0% inter:56.6%
+[libx264 @ 0x1591e60] coded y,uvDC,uvAC intra: 12.2% 0.0% 0.0% inter: 0.4% 0.0% 0.0%
+[libx264 @ 0x1591e60] i16 v,h,dc,p: 68% 10% 21%  1%
+[libx264 @ 0x1591e60] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 30% 10% 54%  1%  1%  1%  1%  0%  1%
+[libx264 @ 0x1591e60] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41% 14% 29%  3%  1%  1%  5%  3%  2%
+[libx264 @ 0x1591e60] i8c dc,h,v,p: 100%  0%  0%  0%
+[libx264 @ 0x1591e60] Weighted P-Frames: Y:0.1% UV:0.0%
+[libx264 @ 0x1591e60] ref P L0: 87.9%  3.7%  6.2%  2.1%
+[libx264 @ 0x1591e60] ref B L0: 69.2% 21.0%  9.8%
+[libx264 @ 0x1591e60] ref B L1: 88.9% 11.1%
+[libx264 @ 0x1591e60] kb/s:17.83
+ffmpeg version 2.8.15-0ubuntu0.16.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 20160609
+  configuration: --prefix=/usr --extra-version=0ubuntu0.16.04.1 --build-suffix=-ffmpeg --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --cc=cc --cxx=g++ --enable-gpl --enable-shared --disable-stripping --disable-decoder=libopenjpeg --disable-decoder=libschroedinger --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libopenjpeg --enable-libopus --enable-libpulse --enable-librtmp --enable-libschroedinger --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzvbi --enable-openal --enable-opengl --enable-x11grab --enable-libdc1394 --enable-libiec61883 --enable-libzmq --enable-frei0r --enable-libx264 --enable-libopencv
+  libavutil      54. 31.100 / 54. 31.100
+  libavcodec     56. 60.100 / 56. 60.100
+  libavformat    56. 40.101 / 56. 40.101
+  libavdevice    56.  4.100 / 56.  4.100
+  libavfilter     5. 40.101 /  5. 40.101
+  libavresample   2.  1.  0 /  2.  1.  0
+  libswscale      3.  1.101 /  3.  1.101
+  libswresample   1.  2.101 /  1.  2.101
+  libpostproc    53.  3.100 / 53.  3.100
+Input #0, image2, from '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/psmap/%06d.png':
+  Duration: 00:01:20.00, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: png, rgba(pc), 128x128 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Please use -q:a or -q:v, -qscale is ambiguous
+[libx264 @ 0x16faaa0] using SAR=1/1
+[libx264 @ 0x16faaa0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x16faaa0] profile High, level 1.2
+[libx264 @ 0x16faaa0] 264 - core 148 r2643 5c65704 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=4 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/mnt/Omer/Project/04.ExTRaMapping/AnalysisResult/20190717/20180426-1/C001H001S0010/psmap.mp4':
+  Metadata:
+    encoder         : Lavf56.40.101
+    Stream #0:0: Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 128x128 [SAR 1:1 DAR 1:1], q=-1--1, 80 fps, 10240 tbn, 80 tbc
+    Metadata:
+      encoder         : Lavc56.60.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+Past duration 1.999992 too large
+    Last message repeated 281 times
+frame=  285 fps=0.0 q=32.0 size=       7kB time=00:00:02.93 bitrate=  19.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 182 times
+frame=  468 fps=466 q=32.0 size=      13kB time=00:00:05.22 bitrate=  19.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 189 times
+frame=  658 fps=437 q=32.0 size=      15kB time=00:00:07.60 bitrate=  16.6kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 186 times
+frame=  845 fps=421 q=32.0 size=      19kB time=00:00:09.93 bitrate=  15.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 195 times
+frame= 1041 fps=415 q=32.0 size=      26kB time=00:00:12.38 bitrate=  17.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 184 times
+frame= 1226 fps=407 q=32.0 size=      34kB time=00:00:14.70 bitrate=  18.7kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 190 times
+frame= 1417 fps=403 q=30.0 size=      38kB time=00:00:17.08 bitrate=  18.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 182 times
+frame= 1600 fps=399 q=32.0 size=      45kB time=00:00:19.37 bitrate=  18.9kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 183 times
+frame= 1784 fps=395 q=32.0 size=      51kB time=00:00:21.67 bitrate=  19.2kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 185 times
+frame= 1970 fps=393 q=32.0 size=      56kB time=00:00:24.00 bitrate=  19.3kbits/s dup=2 drop=0    Past duration 1.999992 too large
+    Last message repeated 31 times
+frame= 2002 fps=393 q=-1.0 Lsize=      81kB time=00:00:25.00 bitrate=  26.5kbits/s dup=2 drop=0    
+video:58kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 40.241199%
+[libx264 @ 0x16faaa0] frame I:27    Avg QP:16.58  size:    96
+[libx264 @ 0x16faaa0] frame P:691   Avg QP:19.49  size:    41
+[libx264 @ 0x16faaa0] frame B:1284  Avg QP:19.43  size:    21
+[libx264 @ 0x16faaa0] consecutive B-frames: 11.8%  6.5%  4.3% 77.3%
+[libx264 @ 0x16faaa0] mb I  I16..4: 64.1% 32.1%  3.8%
+[libx264 @ 0x16faaa0] mb P  I16..4:  0.3%  0.5%  0.1%  P16..4:  3.0%  0.7%  0.1%  0.0%  0.0%    skip:95.4%
+[libx264 @ 0x16faaa0] mb B  I16..4:  0.2%  0.0%  0.0%  B16..8:  2.9%  0.3%  0.0%  direct: 0.2%  skip:96.4%  L0:55.4% L1:43.4% BI: 1.3%
+[libx264 @ 0x16faaa0] 8x8 transform intra:34.5% inter:0.7%
+[libx264 @ 0x16faaa0] coded y,uvDC,uvAC intra: 2.9% 0.0% 0.0% inter: 0.2% 0.0% 0.0%
+[libx264 @ 0x16faaa0] i16 v,h,dc,p: 82%  3% 15%  0%
+[libx264 @ 0x16faaa0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 43%  4% 53%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x16faaa0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19%  8% 70%  0%  1%  0%  1%  1%  0%
+[libx264 @ 0x16faaa0] i8c dc,h,v,p: 100%  0%  0%  0%
+[libx264 @ 0x16faaa0] Weighted P-Frames: Y:10.9% UV:0.0%
+[libx264 @ 0x16faaa0] ref P L0: 74.8%  3.2% 13.0%  8.1%  1.0%
+[libx264 @ 0x16faaa0] ref B L0: 69.2% 24.4%  6.5%
+[libx264 @ 0x16faaa0] ref B L1: 93.1%  6.9%
+[libx264 @ 0x16faaa0] kb/s:18.68
